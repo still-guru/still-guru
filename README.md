@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm still-guru. I am testing github for a class.
 
 <!--
 **still-guru/still-guru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
